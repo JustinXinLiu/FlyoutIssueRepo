@@ -1,5 +1,5 @@
-# FlyoutIssueRepo
-`ColorAnimation` within `Flyout` bug repo.
+# ColorAnimation and Flyout issue repo
+Steps to replicate:
 
 1. Create a `Button` on the page and attach a `Flyout` to it. Then create a `TextBox` within the `Flyout`.
 2. Use Blend to generate a default `Style` for the `TextBox`.
